@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+.venv_*/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Agent outputs and generated results (large; keep locally)
+agent_outputs_*/
+benchmark_results*/
+benchmark_results/
+
+# IDE
+.idea/
+.vscode/
+*.swp
