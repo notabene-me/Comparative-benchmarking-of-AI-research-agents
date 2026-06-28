@@ -1,4 +1,4 @@
-# Multi-Omics AI Agent Benchmarking Framework
+Omics AI Agent Benchmarking Framework
 
 A reproducible Python framework for comparing how different AI research agents interpret the **same omics dataset** across three modalities: **transcriptomics**, **proteomics**, and **metabolomics**.
 
